@@ -1,0 +1,11 @@
+YOUR PHONE IS INFECTED WITH A VIRUS 🚨 ВАШ ТЕЛЕФОН ЗАРАЖЕН ВИРУСОМ 🚨 PONSEL ANDA TERINFEKSI VIRUS 🚨 СІЗДІҢ ТЕЛЕФОНЫҢЫЗ ВИРУС ЖҰҚҚАН 🚨 IHR TELEFON IST MIT EINEM VIRUS INFIZIERT 🚨  TU TELÉFONO ESTÁ INFECTADO CON UN VIRUS 🚨 SEU TELEFONE ESTÁ INFECTADO COM UM VÍRUS 🚨  هاتفك مصاب بفيروس 🚨  您的手機感染了病毒🚨  您的手机感染了病毒🚨  あなたの携帯電話 🚨 はウイルスに感染しています 🚨 IL TUO TELEFONO È INFETTATO DA UN VIRUS 🚨 
+YOUR PHONE IS INFECTED WITH A VIRUS 🚨 ВАШ ТЕЛЕФОН ЗАРАЖЕН ВИРУСОМ 🚨 PONSEL ANDA TERINFEKSI VIRUS 🚨 СІЗДІҢ ТЕЛЕФОНЫҢЫЗ ВИРУС ЖҰҚҚАН 🚨 IHR TELEFON IST MIT EINEM VIRUS INFIZIERT 🚨  TU TELÉFONO ESTÁ INFECTADO CON UN VIRUS 🚨 SEU TELEFONE ESTÁ INFECTADO COM UM VÍRUS 🚨  هاتفك مصاب بفيروس 🚨  您的手機感染了病毒🚨  您的手机感染了病毒🚨  あなたの携帯電話 🚨 はウイルスに感染しています 🚨 IL TUO TELEFONO È INFETTATO DA UN VIRUS 🚨 
+YOUR PHONE IS INFECTED WITH A VIRUS 🚨 ВАШ ТЕЛЕФОН ЗАРАЖЕН ВИРУСОМ 🚨 PONSEL ANDA TERINFEKSI VIRUS 🚨 СІЗДІҢ ТЕЛЕФОНЫҢЫЗ ВИРУС ЖҰҚҚАН 🚨 IHR TELEFON IST MIT EINEM VIRUS INFIZIERT 🚨  TU TELÉFONO ESTÁ INFECTADO CON UN VIRUS 🚨 SEU TELEFONE ESTÁ INFECTADO COM UM VÍRUS 🚨  هاتفك مصاب بفيروس 🚨  您的手機感染了病毒🚨  您的手机感染了病毒🚨  あなたの携帯電話 🚨 はウイルスに感染しています 🚨 IL TUO TELEFONO È INFETTATO DA UN VIRUS 🚨 
+
+1. 請小心，該病毒是任何用於黑客遊戲或通過不正當手段繞過遊戲優勢的程序
+2. 首先，下載防毒軟體並掃描您的設備 
+3. 如果您的防毒軟體發現病毒，請將其刪除並重新啟動您的設備 
+4. 如果病毒沒有清除，可能是設備管理員的原因。在設定中將其刪除。
+5. 如果病毒被授予 root 存取權限，請嘗試使用以下命令將其刪除：「adb pm uninstall <package_name>「透過 adb 在您的電腦上
+6. 如果這也沒有幫助，請將手機重置為出廠設定或透過恢復
+7. 我希望我對你有幫助！再見
